@@ -1,0 +1,15 @@
+.header {
+  background-color: #c8d6e5;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0;
+}
+
+.coverImg {
+  width: 100%;
+}
+
+.pageTitle {
+  padding: 24px;
+}

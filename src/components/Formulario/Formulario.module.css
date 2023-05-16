@@ -1,0 +1,21 @@
+form {
+  padding: 24px;
+  text-align: center;
+}
+
+.labelWeight {
+  padding-right: 8px;
+}
+
+.labelHeight {
+  padding-left: 56px;
+  padding-right: 8px;
+}
+
+input {
+  padding: 8px;
+}
+
+h3 {
+  padding: 32px;
+}
